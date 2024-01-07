@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Snowflake and Tableau**
 
-- 🤝 I’m looking for help with **Snowflake, Tableau ,SQL**
+- 🤝 I’m looking for help with **Advanced - Snowflake, Tableau ,SQL**
 
 - 💬 Ask me about **Tableau and SNowflake**
 
