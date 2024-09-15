@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Snowflake**
 
-- 🌱 I’m currently learning **Alteryx,SQL,Git,Python**
+- 🌱 I’m currently learning **SQL,Git,Python**
 
 - 👯 I’m looking to collaborate on **Snowflake and Tableau**
 
