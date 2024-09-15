@@ -1,4 +1,4 @@
-Hi 👋, I'm Laxmi S Kallimath</h1>
+<h1 align="center">Hi 👋, I'm Laxmi S Kallimath</h1>
 <h3 align="center">Data Analyst with expertise in data analysis and reporting. Querying data using SQL. Generate reports and perform ad-hoc data analysis using SQL. Developing dashboards on Tableau. Data analysis and reporting using Google Sheets and Excel. Successfully implemented data integration solutions using Snowflake as the data warehouse platform in a GCP environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmiskallimath&label=Profile%20views&color=0e75b6&style=flat" alt="laxmiskallimath" /> </p>
